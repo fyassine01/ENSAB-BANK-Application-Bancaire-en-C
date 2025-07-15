@@ -70,3 +70,5 @@ struct compte_bancaire {
     char EMAIL[100];
     char PASSWORD[40];
 };
+```
+<img width="601" height="328" alt="image" src="https://github.com/user-attachments/assets/1ef39bd8-ec06-4183-b4f4-e1d0bb0f40f5" />
